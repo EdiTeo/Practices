@@ -1,3 +1,4 @@
+package P1;
 /**
  * @author Camacho Flores Edith Teodocia
  * @fecha elaborada: 12/04/24
@@ -63,8 +64,8 @@
                 "??*??",
                 "??*??",
                 "??**E"};
-        @SuppressWarnings("unused") //le indico que ignore 
-        Laberinto laberinto = new Laberinto();
+        //@SuppressWarnings("unused") //le indico que ignore 
+       // Laberinto laberinto = new Laberinto();
         System.out.println(puedoSalir(number1, maze1)); // Salida: true
 
         int number2 = 5;
