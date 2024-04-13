@@ -63,6 +63,7 @@
                 "??*??",
                 "??*??",
                 "??**E"};
+        @SuppressWarnings("unused") //le indico que ignore 
         Laberinto laberinto = new Laberinto();
         System.out.println(puedoSalir(number1, maze1)); // Salida: true
 
