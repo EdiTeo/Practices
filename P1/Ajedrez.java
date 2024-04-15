@@ -1,5 +1,9 @@
 package P1;
-
+/**
+ * @author Camacho Flores Edith Teodocia
+ * @fecha elaborada: 15-04-24
+ * Ejercicio 3 Simulacion del Juego de Ajedrez
+ */
 public class Ajedrez {
 
     public String simular(int n, int m, int cx, int cy, int tx, int ty) { //funcion principal

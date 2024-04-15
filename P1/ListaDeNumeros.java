@@ -2,7 +2,7 @@ package P1;
 /**
  * @author Edith Teodocia Camacho Flores
  * @fecha elaborada 13-04-24
- * Ejercicio 2 
+ * Ejercicio 2: Concatenacion de numeros(String)
  * Ejercutar --> java P1.ListaDeNumeros
  * G:2
  */

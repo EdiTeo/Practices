@@ -1,9 +1,8 @@
 package P1;
 /**
  * @author Camacho Flores Edith Teodocia
- * @fecha elaborada: 12/04/24
+ * @fecha elaborada: 12-04-24
  * Ejercicio 1 Laberinto
- * G:2
  */
  
 
